@@ -28,20 +28,20 @@ h1 {
   display: block;
   margin: 0 auto;
   text-align: left;
-  width: 400px;
+  width: 600px;
 }
 
 hr {
   border: 0;
   border-top: 1px solid #70838c;
   opacity: .4;
-  width: 400px;
+  width: 600px;
 }
 
 ul {
   display: block;
   margin: 0 auto;
-  width: 400px;
+  width: 600px;
 }
 
 li {
