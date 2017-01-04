@@ -8,7 +8,7 @@ ul {
 }
 
 body {
-    background: #333333;
+  background: #333333;
   height: 100%;
   width: 100%;
 }
@@ -28,26 +28,26 @@ h1 {
   display: block;
   margin: 0 auto;
   text-align: left;
-  width: 600px;
+  width: 800px;
 }
 
 hr {
   border: 0;
   border-top: 1px solid #70838c;
   opacity: .4;
-  width: 600px;
+  width: 800px;
 }
 
 ul {
   display: block;
   margin: 0 auto;
-  width: 600px;
+  width: 800px;
 }
 
 li {
   color: #70838c;
   display: inline-block;
-  font-size: 1.2em;
+  font-size: 1.4em;
   line-height: 1.5;
   list-style: none;
   margin: 5px;
