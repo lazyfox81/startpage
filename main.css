@@ -8,14 +8,14 @@ ul {
 }
 
 body {
-  background: #333333;
+  background: #353945;
   height: 100%;
   width: 100%;
 }
 
 main {
   display: block;
-  font-family: 'Roboto';
+  font-family: 'Roboto Mono';
   /* left: 50%; */
   position: absolute;
   top: 30%;
